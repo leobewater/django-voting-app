@@ -11,4 +11,6 @@ Video: https://www.youtube.com/watch?v=5C7jbiUdFMM&ab_channel=BekBrace
 > python3 manage.py runserver
 > python3 manage.py makemigrations
 > python3 manage.py migrate
+
+> python3 manage.py createsuperuser
 ```
